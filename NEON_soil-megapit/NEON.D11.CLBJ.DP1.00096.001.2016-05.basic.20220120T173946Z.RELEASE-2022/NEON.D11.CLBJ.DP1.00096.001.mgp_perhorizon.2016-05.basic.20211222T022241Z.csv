@@ -1,0 +1,7 @@
+uid,domainID,siteID,pitNamedLocation,pitID,horizonID,horizonName,setDate,collectDate,horizonTopDepth,horizonBottomDepth,nrcsDescriptionID,remarks
+"1aeaf071-a09a-4d78-a7ae-b64da7a336e8","D11","CLBJ","MEGAPT100966","11_CLBJ_PIT1","11_CLBJ_PIT1_CD","Cd","2016-05-09","2016-05-09",122.0,147.0,"S2016TX497001","Wavy organic staining from ~135-143cm. Stopped digging at 147cm due to potential pit collapse."
+"a287ff3a-da9c-49c7-b727-829af6a581f1","D11","CLBJ","MEGAPT100966","11_CLBJ_PIT1","11_CLBJ_PIT1_BT3","Bt3","2016-05-09","2016-05-09",89.0,122.0,"S2016TX497001",
+"4ac27805-9c4b-4467-9d71-efa84a971cc7","D11","CLBJ","MEGAPT100966","11_CLBJ_PIT1","11_CLBJ_PIT1_BT1","Bt1","2016-05-09","2016-05-09",34.0,71.0,"S2016TX497001",
+"2bee791e-7d50-48e9-b231-703f7f2fd233","D11","CLBJ","MEGAPT100966","11_CLBJ_PIT1","11_CLBJ_PIT1_BT2","Bt2","2016-05-09","2016-05-09",71.0,89.0,"S2016TX497001",
+"8591e76a-178c-4ca5-9a41-16c99bfdd209","D11","CLBJ","MEGAPT100966","11_CLBJ_PIT1","11_CLBJ_PIT1_E","E","2016-05-09","2016-05-09",21.0,34.0,"S2016TX497001",
+"46616476-b74a-4b8a-9089-acaf86ebc074","D11","CLBJ","MEGAPT100966","11_CLBJ_PIT1","11_CLBJ_PIT1_A","A","2016-05-09","2016-05-09",0.0,21.0,"S2016TX497001","Litter+duff layer present but <1cm thick"

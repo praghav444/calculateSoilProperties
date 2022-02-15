@@ -1,0 +1,6 @@
+uid,domainID,siteID,pitNamedLocation,pitID,horizonID,horizonName,setDate,collectDate,archiveID,archiveLaboratoryName,archiveTopDepth,archiveBottomDepth,remarks,sampleMass
+"b033cbf3-d909-433e-b5e4-f6dca2748c85","D14","SRER","MEGAPT100995","D14_SRER_PIT1","D14_SRER_PIT1_2BK","2Bk","2013-11-04","2013-11-04","D14_SRER_PIT1_ARCHIVE_132-203_2BK","NEON",132.0,203.0,,3600.2
+"9cf09361-d065-44a1-9be0-cad87ce45a1d","D14","SRER","MEGAPT100995","D14_SRER_PIT1","D14_SRER_PIT1_BW","Bw","2013-11-04","2013-11-04","D14_SRER_PIT1_ARCHIVE_5-41-BW","NEON",5.0,41.0,,3600.4
+"750e6f53-e7f5-47cc-a1ae-fa3ec0b27f00","D14","SRER","MEGAPT100995","D14_SRER_PIT1","D14_SRER_PIT1_BK1","Bk1","2013-11-04","2013-11-04","D14_SRER_PIT1_ARCHIVE_41-79_BK1","NEON",41.0,79.0,,3600.5
+"a218d10a-65de-495b-bd71-98c184df97eb","D14","SRER","MEGAPT100995","D14_SRER_PIT1","D14_SRER_PIT1_A","A","2013-11-04","2013-11-04","D14_SRER_PIT1_ARCHIVE_0-5_A","NEON",0.0,5.0,"Top horizon of pit was a bit disturbed so the sample was taken 10m from the pit at a location that NRCS chose.",3600.6
+"516feaab-cb2c-4922-ad2a-8629b2d4ed23","D14","SRER","MEGAPT100995","D14_SRER_PIT1","D14_SRER_PIT1_BK2","Bk2","2013-11-04","2013-11-04","D14_SRER_PIT1_ARCHIVE_79-132-BK2","NEON",79.0,132.0,,3600.4

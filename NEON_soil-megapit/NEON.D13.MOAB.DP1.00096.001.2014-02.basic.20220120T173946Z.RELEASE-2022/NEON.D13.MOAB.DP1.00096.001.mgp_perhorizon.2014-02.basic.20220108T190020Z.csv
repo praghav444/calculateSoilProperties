@@ -1,0 +1,9 @@
+uid,domainID,siteID,pitNamedLocation,pitID,horizonID,horizonName,setDate,collectDate,horizonTopDepth,horizonBottomDepth,nrcsDescriptionID,remarks
+"0db58fca-9758-4a50-a468-0e4f2a25c7aa","D13","MOAB","MEGAPT100983","13_MOAB_PIT1","13_MOAB_PIT1_C2","C2","2014-02-24","2014-02-24",160.0,200.0,"S2014UT037001","Eolian sediment; 0/few rocks"
+"2b6a22b6-eaf9-472c-a006-1d6cffada749","D13","MOAB","MEGAPT100983","13_MOAB_PIT1","13_MOAB_PIT1_BW","Bw","2014-02-24","2014-02-24",6.0,31.0,"S2014UT037001",
+"057129ec-772b-48a2-9b82-7e2532f7ddf4","D13","MOAB","MEGAPT100983","13_MOAB_PIT1","13_MOAB_PIT1_A","A","2014-02-24","2014-02-24",0.0,6.0,"S2014UT037001",
+"7d9ed0f9-2580-41f8-a980-fd28c78b9614","D13","MOAB","MEGAPT100983","13_MOAB_PIT1","13_MOAB_PIT1_CK","Ck","2014-02-24","2014-02-24",82.0,116.0,"S2014UT037001","Calcium carbonate building up on the bottom of rocks."
+"ea1598e0-876f-40d3-9f11-8031b9d374f8","D13","MOAB","MEGAPT100983","13_MOAB_PIT1","13_MOAB_PIT1_C1","C1","2014-02-24","2014-02-24",116.0,160.0,"S2014UT037001","Illuvial sediment deposits; rocks present."
+"7246bc3f-09cd-48da-be2d-455eec4f0e2f","D13","MOAB","MEGAPT100983","13_MOAB_PIT1","13_MOAB_PIT1_BK3","Bk3","2014-02-24","2014-02-24",62.0,82.0,"S2014UT037001","Calcium carbonate building up on the bottom of rocks."
+"400ddba5-8588-4d08-962f-1bb4cc01b934","D13","MOAB","MEGAPT100983","13_MOAB_PIT1","13_MOAB_PIT1_BK2","Bk2","2014-02-24","2014-02-24",47.0,62.0,"S2014UT037001","Calcium carbonate building up on the bottom of rocks."
+"fb683d7c-9804-49ae-8e27-a3998998c85c","D13","MOAB","MEGAPT100983","13_MOAB_PIT1","13_MOAB_PIT1_BK1","Bk1","2014-02-24","2014-02-24",31.0,47.0,"S2014UT037001","Calcium carbonate building up on the bottom of rocks."
