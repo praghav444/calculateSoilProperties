@@ -1,0 +1,201 @@
+This data package been produced by and downloaded from the National Ecological Observatory Network (NEON). NEON is funded by the National Science Foundation (Awards 0653461, 0752017, 1029808, 1138160, 1246537, 1638695, 1638696, 1724433) and managed cooperatively by Battelle. These data are provided under the terms of the NEON data policy at https://www.neonscience.org/data-policy.
+
+
+
+DATA PRODUCT INFORMATION
+
+------------------------
+
+
+
+ID: NEON.DOM.SITE.DP1.00096.001
+
+
+
+Name: Soil physical and chemical properties, Megapit
+
+
+
+Description: Soil taxonomy, horizon names, horizon depths, soil bulk density, texture, and chemical properties in the <= 2 mm soil fraction for each soil horizon in each Megapit. Data were derived from a sampling location expected to be representative of the area where the Instrumented Soil Plots are located and were collected once during site construction, in collaboration with the USDA Natural Resources Conservation Service. Also see distributed soil (DP1.10086.001) and initial characterization soil (DP1.10047.001) data products, as well as the root Megapit product (DP1.10066.001) for root biomass and chemistry measurements.
+
+
+
+NEON Science Team Supplier: Terrestrial Instrument System
+
+
+
+Abstract: Soil properties affect the movement of water, heat and gases into and out of the soil. They also influence the availability of nutrients to plants and soil organisms and the production and stabilization of soil organic matter. Soil physical and chemical properties are measured by horizon from a single temporary soil "Megapit" at each terrestrial site at depths of up to 200 cm at non-permafrost sites (up to 300 cm at Alaskan sites). The Megapit sampling location is expected to be representative of the NEON sensor-based soil plots and this sampling activity is expected to occur once at each NEON terrestrial site.
+
+Queries for this data product will return field collection metadata, soil taxonomy, bulk density, coarse fragment content, and particle size distribution, and a host of geochemical measurements on a per horizon basis. For additional details, see the user guide, protocols, and ATBDs listed in the Documentation section below. Associated with these data are soil pedon descriptions and photos. These documents can be found on the NEON Data Portal under the Resources section, or here: https://data.neonscience.org/megapit-info Additional soil samples collected from the same soil pit are archived in the [NEON Megapit Soil Archive](https://www.neonscience.org/samples/soil-archive) and are available upon request.
+
+Latency:
+Data were collected once, at the establishment of each site. Data were published within one year of collection, and future collections at existing sites are not expected
+
+
+
+Brief Design Description: The Soil physical and chemical properties, Megapit data product is available at each terrestrial site. The soil pit location was chosen to be representative of the sensor-based Soil Plots based on soil type, vegetation and topography, as well as being accessible by a backhoe and outside the main measurement zone of other sensors. The soil pit is usually within a few hundred meters of the sensor-based Soil Plots and NEON tower. Soil samples were collected by soil horizon up to 200 cm at non-permafrost sites (up to 300 cm at Alaskan sites). Laboratory analyses were conducted at the Kellogg Soil Survey Laboratory in Lincoln, Nebraska following the standard operating procedures outlined in the Soil Survey Laboratory Methods Manual, Report No. 42, Version 5, 2014.
+
+
+
+Brief Study Area Description: Soil physical properties are measured at one temporary soil pit at each terrestrial site
+
+
+
+Sensor(s): 
+
+
+
+Keywords: coarse fragments, rocks, soil cores, soil taxonomy, soil properties, bulk density, sand, soil series, soil texture, soil order, soil pits, clay, soil horizons, megapit, silt
+
+
+
+
+
+QUERY INFORMATION
+
+-----------------
+
+
+
+Date-Time for Data Publication: 2021-12-20 23:50 (UTC)
+
+Start Date-Time for Queried Data: 2012-09-18 17:00 (UTC)
+
+End Date-Time for Queried Data: 2012-09-18 17:00 (UTC)
+
+
+
+Site: WOOD
+
+Geographic coordinates (lat/long datum): 
+Domain: D09
+
+
+
+
+
+DATA PACKAGE CONTENTS
+
+---------------------
+
+
+
+This folder contains the following documentation files:
+
+
+
+- This readme file: NEON.D09.WOOD.DP1.00096.001.readme.20220120T173946Z.txt
+
+- Term descriptions, data types, and units: NEON.D09.WOOD.DP1.00096.001.variables.20211220T235012Z.csv
+
+- Data entry validation and parsing rules: NEON.D09.WOOD.DP1.00096.001.validation.20211220T235012Z.csv
+
+- Machine-readable metadata file describing the data package: NEON.D09.WOOD.DP1.00096.001.EML.20120918-20120918.20220120T173946Z.xml. This file uses the Ecological Metadata Language schema. Learn more about this specification and tools to parse it at https://www.neonscience.org/about/faq.
+
+- Other related documents, such as engineering specifications, field protocols and data processing documentation, are available. Please visit https://data.neonscience.org/data-products/DP1.00096.001 for more information.
+
+
+
+
+
+This folder also contains 5 data files:
+
+NEON.D09.WOOD.DP1.00096.001.mgp_perbulksample.2012-09.basic.20211220T235012Z.csv - Data collected on bulk density sample
+NEON.D09.WOOD.DP1.00096.001.mgp_perarchivesample.2012-09.basic.20211220T235012Z.csv - Archived sample information
+NEON.D09.WOOD.DP1.00096.001.mgp_permegapit.2012-09.basic.20211220T235012Z.csv - Data collected per megapit
+NEON.D09.WOOD.DP1.00096.001.mgp_perbiogeosample.2012-09.basic.20211220T235012Z.csv - Data collected on biogeochemistry sample
+NEON.D09.WOOD.DP1.00096.001.mgp_perhorizon.2012-09.basic.20211220T235012Z.csv - Per soil horizon metadata
+
+
+
+Basic download package definition: The basic data package includes all measurements. There is no expanded package for this data product.
+
+
+
+Expanded download package definition: 
+
+
+
+
+
+FILE NAMING CONVENTIONS
+-----------------------
+
+NEON data files are named using a series of component abbreviations separated by periods. File naming conventions for NEON data files differ between NEON science teams. A file will have the same name whether it is accessed via NEON's data portal or API. Please visit https://www.neonscience.org/data-formats-conventions for a full description of the naming conventions.
+
+ISSUE LOG
+
+----------
+
+
+
+This log provides a list of issues that were identified during data collection or processing, prior to publication of this data package. For a more recent log, please visit this data product's detail page at https://data.neonscience.org/data-products/DP1.00096.001.
+
+
+
+Issue Date: 2021-10-06
+Issue: The subsample labels for total C, N, and S analysis were switched for two ABBY soil horizons (AB and Bw1) resulting in incorrect values for carbonTot, nitrogenTot, sulfurTot, and estimatedOC (estimated organic C is derived from carbonTot). None of the other analyses or soil horizons were affected.
+       Date Range: 2010-01-01 to 2021-10-06
+       Location(s) Affected: ABBY soil horizons AB and Bw1
+Resolution Date: 2021-10-06
+Resolution: Data were corrected. Some values have changed slightly due to the use of a different air-dried water content in the computation. Data correction applied in provisional data and RELEASE-2022 and later. Note that data will remain uncorrected in RELEASE-2021.
+
+Issue Date: 2020-10-01
+Issue: NEON was reporting the units for several terms related to cation exchange and aluminum as centimoles per kilogram. However, in consultation with the USDA-NRCS, it was determined that those units were not correct.
+       Date Range: 2015-01-01 to 2018-12-31
+       Location(s) Affected: All terrestrial sites
+Resolution Date: 2020-10-06
+Resolution: The units were updated to centimoles charge per kilogram.
+
+Issue Date: 2020-10-02
+Issue: Until October 2020, megapit chemical and physical properties were published as separate data products.
+       Date Range: 2012-01-01 to 2020-10-06
+       Location(s) Affected: All terrestrial sites.
+Resolution Date: 2020-10-06
+Resolution: In October 2020, data tables for chemistry and physical properties were bundled together in a single data product for improved usability. This applies to all existing data.
+
+Issue Date: 2019-10-11
+Issue: Data in the perbiogeosample table were mistakenly swapped for two soil horizons
+       Date Range: 2010-01-01 to 2019-10-11
+       Location(s) Affected: GRSM soil horizons A1 and A2
+Resolution Date: 2019-10-11
+Resolution: Data were corrected
+
+Issue Date: 2019-03-20
+Issue: Remarks missing at all sites, geolocation data missing at some sites, 2-5 mm and 5-20 mm rock content missing at some sites, negative values reported for a few concentrations, and incorrect value recorded for `13_MOAB_PIT1_BIOGEO_62_82_BK3` bottomDepth and `D17_SOAP_PIT1_BIOGEO_91-136_BT3` topDepth.
+       Date Range: 2010-01-01 to 2019-03-20
+       Location(s) Affected: All
+Resolution Date: 2019-03-20
+Resolution: Missing remarks and data were added. Negative values for concentrations were changed to zero. Typo corrected in bottomDepth and topDepth.
+
+
+
+
+
+ADDITIONAL INFORMATION
+
+----------------------
+
+
+
+
+Queries for this data product will return all data for `mgp_permegapit`, `mgp_perhorizon`, `mgp_perbiogeosample`, `mgp_perbulksample`, and `mgp_perarchivesample` during the date range specified. There is expected to be at least one record for each `mgp_permegapit.pitID` x `mgp_perhorizon.horizonID` combination in `mgp_perbiogeosample`, `mgp_perbulksample` and `mgp_perarchivesample`, and more than one if an audit sample was taken. Duplicates may exist where protocol and/or data entry aberrations have occurred; users should check data carefully for anomalies before analyzing data.
+
+
+
+NEON DATA POLICY AND CITATION GUIDELINES
+
+----------------------------------------
+
+
+
+A citation statement is available in this data product's detail page at https://data.neonscience.org/data-products/DP1.00096.001. Please visit https://www.neonscience.org/data-policy for more information about NEON's data policy and citation guidelines.
+
+
+
+DATA QUALITY AND VERSIONING
+---------------------------
+
+NEON data are initially published with a status of Provisional, in which updates to data and/or processing algorithms will occur on an as-needed basis, and query reproducibility cannot be guaranteed. Once data are published as part of a Data Release, they are no longer provisional, and are associated with a stable DOI.
+
+To learn more about provisional versus released data, please visit https://www.neonscience.org/data-revisions-releases.
