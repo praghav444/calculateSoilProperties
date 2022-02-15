@@ -7,10 +7,10 @@
 #--------------------------------------------------------------------------------------
 #--------------------------------------------------------------------------------------
 library(dplyr)
-source('/Users/raghav/Library/CloudStorage/Box-Box/FVS_NEON/Scripts/R/funs_to_estimate_soil_properties/pedotransfer.R')
-df_silt_sand_clay <- read.csv('/Users/raghav/Library/CloudStorage/Box-Box/FVS_NEON/NEON_Soil_data/NEON_soil_data_sand_silt_clay_fraction_all_sites.csv')
+source('~/pedotransfer.R')
+df_silt_sand_clay <- read.csv('~/NEON_soil_data_sand_silt_clay_fraction_all_sites.csv')
 sites <- unique(df_silt_sand_clay$siteID)
-soil_dens_files <- list.files('/Users/raghav/Library/CloudStorage/Box-Box/FVS_NEON/NEON_Soil_data/NEON_soil-megapit/',
+soil_dens_files <- list.files('~/NEON_soil-megapit/',
                               pattern = "_perbulksample", recursive = TRUE, full.names = TRUE)
 df_final <- NULL
 for (site in sites){
@@ -48,5 +48,4 @@ for (site in sites){
     cbind(., horizonBottomDepth) %>% cbind(., soilpro) %>% cbind(., soil_prop_out)
   df_final <- rbind(df_final, temp)
 }
-write.csv(df_final, '/Users/raghav/Library/CloudStorage/Box-Box/FVS_NEON/Scripts/R/funs_to_estimate_soil_properties/NEON_soil_properties_all_sites_raghav.csv', row.names = FALSE)
-write.csv(df_final, '/Users/raghav/Library/CloudStorage/Box-Box/FVS_NEON/NEON_Soil_data/NEON_soil_properties_all_sites_raghav.csv', row.names = FALSE)
+write.csv(df_final, '~/NEON_soil_properties_all_sites.csv', row.names = FALSE)
