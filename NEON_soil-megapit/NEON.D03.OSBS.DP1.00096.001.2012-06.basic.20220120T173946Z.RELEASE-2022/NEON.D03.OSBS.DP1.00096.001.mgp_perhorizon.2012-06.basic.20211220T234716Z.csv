@@ -1,0 +1,5 @@
+uid,domainID,siteID,pitNamedLocation,pitID,horizonID,horizonName,setDate,collectDate,horizonTopDepth,horizonBottomDepth,nrcsDescriptionID,remarks
+"26155dfc-c63f-484e-a6e7-1fbf6ad7e92b","D03","OSBS","MEGAPT100989","3_ORDWAY_PIT1","3_ORDWAY_PIT1_BW1","Bw1","2012-06-19","2012-06-19",7.0,28.0,,
+"e0ac5e41-8060-412d-ae58-fdf4eb71d888","D03","OSBS","MEGAPT100989","3_ORDWAY_PIT1","3_ORDWAY_PIT1_A","A","2012-06-19","2012-06-19",0.0,7.0,,
+"a018acc8-81ee-4ab8-92a2-f788a78fad1c","D03","OSBS","MEGAPT100989","3_ORDWAY_PIT1","3_ORDWAY_PIT1_BW2","Bw2","2012-06-19","2012-06-19",28.0,125.0,,
+"d43f2e15-942f-4526-a77f-3668a8ba6e20","D03","OSBS","MEGAPT100989","3_ORDWAY_PIT1","3_ORDWAY_PIT1_BW3","Bw3","2012-06-19","2012-06-19",125.0,200.0,,
