@@ -1,0 +1,6 @@
+uid,domainID,siteID,pitNamedLocation,pitID,horizonID,horizonName,setDate,collectDate,horizonTopDepth,horizonBottomDepth,nrcsDescriptionID,remarks
+"8daec27e-dc89-4868-bc33-f6e1409f5e6d","D19","HEAL","MEGAPT100974","D19_HEAL_PIT1","D19_HEAL_PIT1_CJJF","Cjjf","2015-11-04","2015-11-04",50.0,84.0,"S2016AK068001_MP","Soil horizons described from intact frozen soil cores"
+"b75f740d-1ebd-4b0e-a5c6-462df165d0ee","D19","HEAL","MEGAPT100974","D19_HEAL_PIT1","D19_HEAL_PIT1_OA","Oa","2015-11-04","2015-11-04",22.0,31.0,"S2016AK068001_MP","Soil horizons described from intact frozen soil cores"
+"1a6990ef-d3d3-4ffd-9a02-f40ab254a79c","D19","HEAL","MEGAPT100974","D19_HEAL_PIT1","D19_HEAL_PIT1_OE","Oe","2015-11-04","2015-11-04",9.0,22.0,"S2016AK068001_MP","Soil horizons described from intact frozen soil cores"
+"d9db5597-4edc-47a2-9095-e0249d659eba","D19","HEAL","MEGAPT100974","D19_HEAL_PIT1","D19_HEAL_PIT1_A/CJJ","A/Cjj","2015-11-04","2015-11-04",31.0,50.0,"S2016AK068001_MP","Soil horizons described from intact frozen soil cores"
+"c4aac7e5-91bf-492c-84bc-dc1bcab239a6","D19","HEAL","MEGAPT100974","D19_HEAL_PIT1","D19_HEAL_PIT1_OI","Oi","2015-11-04","2015-11-04",0.0,9.0,"S2016AK068001_MP","Soil horizons described from intact frozen soil cores"

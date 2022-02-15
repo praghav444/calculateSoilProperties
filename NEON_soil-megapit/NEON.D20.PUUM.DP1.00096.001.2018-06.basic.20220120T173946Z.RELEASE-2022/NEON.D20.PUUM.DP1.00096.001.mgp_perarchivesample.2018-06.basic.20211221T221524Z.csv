@@ -1,0 +1,6 @@
+uid,domainID,siteID,pitNamedLocation,pitID,horizonID,horizonName,setDate,collectDate,archiveID,archiveLaboratoryName,archiveTopDepth,archiveBottomDepth,remarks,sampleMass
+"167cc15d-7f16-426f-9ae2-5e0b88363e1d","D20","PUUM","MEGAPT113656","D20_PUUM_PIT1","D20_PUUM_PIT1_OE","Oe","2018-06-25","2018-06-25",,,,,"Field profile description included a single horizon from 0-17 cm so seperate samples not collected from 0-2 and 2-17 cm horizons",
+"811fc889-8ef0-4da3-ab64-6a2a7a6c48da","D20","PUUM","MEGAPT113656","D20_PUUM_PIT1","D20_PUUM_PIT1_2BW2","2Bw2","2018-06-25","2018-06-25","D20_PUUM_PIT1_ARCHIVE_59-90_2BW2","NEON",59.0,90.0,,2262.9
+"1f597cf6-3cc1-428b-a15c-b7f5a8e66feb","D20","PUUM","MEGAPT113656","D20_PUUM_PIT1","D20_PUUM_PIT1_2BW1","2Bw1","2018-06-25","2018-06-25","D20_PUUM_PIT1_ARCHIVE_17-59_BW1","NEON",17.0,59.0,,3354.3
+"eb087b85-cf22-458e-aacd-ddf36c661613","D20","PUUM","MEGAPT113656","D20_PUUM_PIT1","D20_PUUM_PIT1_A","A","2018-06-25","2018-06-25","D20_PUUM_PIT1_ARCHIVE_0-17_O","NEON",0.0,17.0,"Field profile description included a single horizon from 0-17 cm so seperate samples not collected from 0-2 and 2-17 cm horizons",3695.7
+"08322516-872c-4644-8301-e9b80f147f6c","D20","PUUM","MEGAPT113656","D20_PUUM_PIT1","D20_PUUM_PIT1_3C","3C","2018-06-25","2018-06-25",,,,,"Horizon below 90 cm initially classified as R so no sample collected",

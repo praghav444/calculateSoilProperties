@@ -1,0 +1,8 @@
+uid,domainID,siteID,pitNamedLocation,pitID,horizonID,horizonName,setDate,collectDate,horizonTopDepth,horizonBottomDepth,nrcsDescriptionID,remarks
+"4657165a-5b1a-45d7-b14a-59a533879baa","D19","BONA","MEGAPT112075","D19_BONA_PIT1","D19_BONA_PIT1_CGF1","Cgf1","2017-03-20","2017-03-20",56.0,88.0,"S2017AK090001_MP","Soil horizons described from intact frozen soil cores"
+"2d5eb65a-8386-4475-b1f7-f18e8bdf665c","D19","BONA","MEGAPT112075","D19_BONA_PIT1","D19_BONA_PIT1_OE","Oe","2017-03-20","2017-03-20",0.0,10.0,"S2017AK090001_MP","Soil horizons described from intact frozen soil cores"
+"e75eca9e-015c-4120-b99a-0a862641267e","D19","BONA","MEGAPT112075","D19_BONA_PIT1","D19_BONA_PIT1_CG","Cg","2017-03-20","2017-03-20",38.0,56.0,"S2017AK090001_MP","Soil horizons described from intact frozen soil cores"
+"57a1733b-6116-4211-bfde-128dcb9fa7e9","D19","BONA","MEGAPT112075","D19_BONA_PIT1","D19_BONA_PIT1_OA","Oa","2017-03-20","2017-03-20",10.0,22.0,"S2017AK090001_MP","Soil horizons described from intact frozen soil cores"
+"6cf2b098-7100-43f9-85c2-c1d2aa2e05b4","D19","BONA","MEGAPT112075","D19_BONA_PIT1","D19_BONA_PIT1_BG/OAJJ","Bg/Oajj","2017-03-20","2017-03-20",22.0,38.0,"S2017AK090001_MP","Soil horizons described from intact frozen soil cores"
+"a5bddb67-5b8e-48fb-a783-6f09168ee67f","D19","BONA","MEGAPT112075","D19_BONA_PIT1","D19_BONA_PIT1_CGF3","Cgf3","2017-03-20","2017-03-20",131.0,193.0,"S2017AK090001_MP","Soil horizons described from intact frozen soil cores"
+"8abced37-9398-4fb4-a5ab-f0d4b7c4fccf","D19","BONA","MEGAPT112075","D19_BONA_PIT1","D19_BONA_PIT1_CGF2","Cgf2","2017-03-20","2017-03-20",88.0,131.0,"S2017AK090001_MP","Soil horizons described from intact frozen soil cores"
